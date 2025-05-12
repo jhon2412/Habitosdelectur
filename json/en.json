@@ -1,0 +1,18 @@
+[
+    {
+        "nombre": "Home",
+        "link": "02menuxml.html"
+    },
+    {
+        "nombre": "estudent",
+        "link": "estudiantes.html"
+    },
+    {
+        "nombre": "",
+        "link": "docentes.html"
+    },
+    {
+        "nombre": "classrooms",
+        "link": "aulas.html"
+    }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+<menu>
+    <item id="educacion">
+        <es>educacion</es>
+        <en>education</en>
+		<eu>hezkuntza</eu>
+    </item>
+	<item id="publicacion">
+        <es>publicacion</es>
+        <en>publication</en>
+		<eu>argitalpena</eu>
+    </item>
+	<item id="entrevistas">
+        <es>entrevistas</es>
+        <en>interviews</en>
+		<eu>elkarrizketak</eu>
+    </item>
+</menu>
+</translations>

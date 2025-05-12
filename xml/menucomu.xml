@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>../principal.html</link>
+    </item>
+    <item>
+        <nombre>Encuesta</nombre>
+        <link>../encuesta.html</link>
+    </item>
+    <item>
+        <nombre>Resultados</nombre>
+        <link>../datos.html</link>
+    </item>
+    <item>
+        <nombre>Consejo</nombre>
+        <link>../consejos.html</link>
+    </item>
+    <item>
+        <nombre>Comunidad</nombre>
+        <link>../usuarios.html</link>
+    </item>
+</menu>

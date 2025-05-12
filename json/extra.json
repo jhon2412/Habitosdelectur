@@ -1,0 +1,19 @@
+{  
+ "extras":[ 
+         { 
+         "image":"./imagenes/l4.jpg",
+         "titulo":"Articulos Literatura Contemporane",
+         "contenido":"Encuentro que los grupos de Goodreads son realmente buenos y algunos son muy animados. Los grupos de varios retos de lectura tienen varias publicaciones nuevas cada día. También hay algunos grupos fantásticos basados en géneros. Muchos son grupos cerrados, así que tendrás que unirte para ver si te convienen. La sección de comentarios en algunos canales de Booktube también puede ser genial, pero IME toma un tiempo encontrar los canales correctos"
+         },
+         {
+         "image":"./imagenes/l5.jpg",    
+         "titulo":"Propósito de entender los hábitos de los lectores",
+         "contenido":"El hábito de la lectura se refiere a la práctica regular y sistemática de leer libros, revistas, periódicos u otros tipos de textos escritos como parte de la rutina diaria o semanal de una persona. "
+         },
+         {
+         "imagen":"./imagenes/fo3.png",   
+         "titulo":"Recomendaciones de lectores",
+         "contenido":"Manuel Vilas recomienda «Solo humo» Juan José Millás «Solo humo es una novela que te roba el alma y la deposita dentro de la fantasía más maravillosa, y de esa fantasía regresas de nuevo a la realidad, porque la vida solo es humo, pero ese humo lo vale todo, es un humo dorado, un humo enamorado"       
+         }  
+   ]
+}

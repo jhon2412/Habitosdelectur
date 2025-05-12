@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding-inline: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto',sans-serif;
+}
+body{
+    height: 100vh;
+    height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(/imagenes/foto5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+.container-form {
+    width: 90%;/*90*/
+    height: 90vh;
+    height: 90dvh;
+    display: flex;
+    justify-content: space-around;
+    transition: all .5s ease-out;
+}
+.welcome-back {
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.message{
+    padding: 0.1rem;/*0.1*/
+}
+.message h2 {
+    font-size: 1rem;/*1.7*/
+    padding: 1rem 0;
+}
+.message button{
+    padding: 1rem;
+    font-weight: 200;/*400*/
+    background-color: #4a4aee;
+    border-radius: 1rem;/*2*/
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1rem;/*9*/
+    margin-top: 1rem;/*2*/
+    transition: all .3s ease-in;
+    color: #fff; 
+}
+.message button:hover{
+    background-color: #6464f8;
+}
+.formulario{
+    width: 300px;/*400*/
+    padding: 1rem;
+    margin: 2rem;
+    background-color: rgb(51,51,51,0.602);
+    text-align: center;
+}
+.create-acount {
+    padding: 2.7rem 0;/*2.7*/
+    font-size: 1rem;/*1.7*/
+}
+.iconos{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+.border-icon{
+    height: 20px;
+    width: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1.5rem;
+    border: solid thin white;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    transform: all .3s ease-in;
+}
+.border-icon{
+    background-color: #4a4aee;
+    cursor: pointer;
+}
+.cuenta-gratis{
+    padding: 2rem;
+}
+.formulario input{
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem;
+    background-color:transparent;
+    border:none;
+    border-bottom: white thin solid;
+    text-align: center;
+    outline: none;
+    padding: .2rem 0;
+    font-size: .9rem;
+    color: white;
+}
+.formulario .imput[type="button"]{
+    width: 60%;
+    margin: auto;
+    border: solid thin white;
+    padding: .7rem;
+    border-radius: 2rem;
+    background-color: white;
+    font-weight: 60;
+    margin-top: 3rem;
+    font-size: 8rem;
+    cursor: pointer;
+    color: #222;
+}
+.sign-in{
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+}
+.sign-in.active{
+    opacity: 1;
+    visibility: visible;
+}
+.sign-up.active{
+    opacity: 0;
+    visibility: hidden;
+}
+.sign-up.active{
+    position: absolute;
+    opacity: 0;
+    visibility: visible;
+}

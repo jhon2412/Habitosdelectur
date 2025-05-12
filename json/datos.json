@@ -1,0 +1,19 @@
+{  
+ "datos":[ 
+    { 
+     "imagen":"./imagenes/p1.jpg",
+     "titulo":"Estadistica de géneros más leidos",
+     "contenido":"Cervantes (7,8%), Sony (5,5%) y Tagus (3,7%)."
+    },
+     {
+    "imagen":"./imagenes/d10.jpg",    
+    "titulo":"Comparacion entre libros digitales tradicionales",
+    "contenido":"Respecto al 21,6% que prefiere leer con formato de libro electrónico,  regular y sistemática de leer libros, revistas, periódicos u otros tipos de textos escritos como parte de la rutina diaria o semanal de una persona. "
+    },
+    {
+    "imagen":"./imagenes/b2.jpg",   
+    "titulo":"Sugerencias y recomendaciones",
+     "contenido":"Con qué frecuencia lees., Consideras la lectura una actividad placentera ,¿Leerias mas libros si tuvieras mas tiempo?"       
+     }  
+  ]
+}

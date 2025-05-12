@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>../principal.html</link>
+    </item>
+    <item>
+        <nombre>Encuesta</nombre>
+        <link>../encuesta.html</link>
+    </item>
+    <item>
+        <nombre>Resultados</nombre>
+        <link>../datos.html</link>
+    </item>
+    <item>
+        <nombre>Consejos</nombre>
+        <link>../consejos.html</link>
+    </item>
+    <item>
+        <nombre>Comunidad</nombre>
+        <link>../usuarios.html</link>
+    </item>
+    <item>
+        <nombre>Extras</nombre>
+        <link>../extra.html</link>
+    </item>
+    <item>
+        <nombre>FAQ</nombre>
+        <link>../faqs.html</link>
+    </item>
+    <item>
+        <nombre>Contactos</nombre>
+        <link>../contactos.html</link>
+    </item>
+    <item>
+        <nombre>Salir</nombre>
+        <link>../cerrar.html</link>
+    </item>
+</menu>

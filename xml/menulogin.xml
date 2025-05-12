@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>../index.html</link>
+    </item>
+    <item>
+        <nombre>Login</nombre>
+        <link>../login.html</link>
+    </item>
+</menu>

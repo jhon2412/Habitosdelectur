@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <nombre>Inicio</nombre>
+        <link>../principal.html</link>
+    </item>
+    <item>
+        <nombre>Encuesta</nombre>
+        <link>../encuesta.html</link>
+    </item>
+</menu>

@@ -1,0 +1,70 @@
+.languages{
+    display: flex;
+    gap: 0.5rem;
+}
+.lang-button{
+    background-color: transparent;
+    font-size: 1.2rem;
+    border: 0;
+    cursor: pointer;
+}
+.colordelabarap{
+    background-color: darkorange !important;
+}
+.colordelmenu{
+    background-color: #85aedd !important;
+}
+.colordelabara{
+    background-color: #85aedd !important;
+}
+.contacto-container{
+    width: 90%;
+    height: 70vh;
+    height: 70dvh;
+    display: flex;
+    justify-content: space-around;
+    transition: all .5s ease-out;
+}
+.titulo-contacto{
+    text-align: center;
+    font-size: 1.2rem;
+}
+.contactoform{
+    width: 300px;
+    padding: 1rem;
+    margin: 2rem;
+    background-color: rgb(51,51,51,0.602);
+    text-align: center;
+}
+.contactoform input{
+    width: 70%;
+    display: block;
+    margin: auto;
+    margin-bottom: 2rem;
+    background-color:transparent;
+    border:none;
+    border-bottom: white thin solid;
+    text-align: center;
+    outline: none;
+    padding: .2rem 0;
+    font-size: .9rem;
+    color: white;
+}
+.contactoform .imput[type="button"]{
+    width: 90%;
+    margin: auto;
+    border: solid thin white;
+    padding: .7rem;
+    border-radius: 2rem;
+    background-color: white;
+    font-weight: 60;
+    margin-top: 3rem;
+    font-size: 8rem;
+    cursor: pointer;
+    color: #222;
+    transition: 0.1s;
+}
+.button-primary{
+    background-color: green ;
+    color: azure;
+}

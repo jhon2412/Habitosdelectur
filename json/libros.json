@@ -1,0 +1,68 @@
+{
+    "libros":[
+        {  
+        "imagen": "./imagenes/l3.jpg",    
+        "titulo": "La Supra Conciencia Existe",
+        "autor":"Dr.Manuel San Segarra",
+        "editorial":"Ediciones Lujitos",
+        "gestion": 2021,
+        "paginas":100
+        },
+       {
+        "imagen": "./imagenes/l4.jpg",
+        "titulo": "Dueños del Mundo",
+        "autor":"Jose Cayo Poyato",
+        "editorial":"Ediciones Lujitos",
+        "gestion":2024,
+        "paginas":360
+        },
+        {
+        "imagen": "./imagenes/l3.png",    
+        "titulo": "La Conjura de los Necios",
+        "autor":"Toole Jhonn Kennedy",
+        "editorial":"Ediciones Lujitos",
+        "gestion": 2001,
+        "paginas":250
+        },
+        {
+        "imagen": "./imagenes/l5.jpg",    
+        "titulo": "La Diva",
+        "autor":"Reyes Monforte",
+        "editorial":"Ediciones Lujitos",
+        "gestion":2024,
+        "paginas":450
+       },
+       {
+        "imagen": "./imagenes/l10.jpg",
+        "titulo": "La Ira de los Humillados",
+        "autor":"Carlos Torrez",
+        "editorial":"Ediciones Lujitos",
+        "gestion": 2001,
+        "paginas":250
+       },
+       {
+        "imagen": "./imagenes/l6.jpg",
+        "titulo": "La Conjura de los Necios",
+        "autor":"Hector Abad Faciolince",
+        "editorial":"Ediciones Lujitos",
+        "gestion": 2001,
+        "paginas":450
+       },
+       {
+        "imagen": "./imagenes/l9.jpg",
+        "titulo": "Lo que Queda de mi ",
+        "autor":"Karla Sofia Gascon",
+        "editorial":"Ediciones Lujitos",
+        "gestion": 2025,
+        "paginas":350
+       },
+       {
+        "imagen": "./imagenes/l8.jpg",
+        "titulo": "Voses de Muerte entre los Libros",
+        "autor":"Silvia Lagarda Mata",
+        "editorial":"Ediciones Bunas Notas",
+        "gestion": 2015,
+        "paginas":245
+       }
+    ]
+}

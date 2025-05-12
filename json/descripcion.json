@@ -1,0 +1,20 @@
+{  
+ "descripcion":[ 
+    { 
+     "imagen":"./imagenes/d2.jpg",
+     "titulo":"Descripcion de la Ecuesta",
+     "contenido":"Con este instrumento se busca recopilar información sobre la frecuencia de lectura, de una persona. Sirve para comprender el interés, preferencias y obstáculos que enfrentan los lectores en su relación con la lectura."
+    },
+     {
+    "imagen":"./imagenes/e1.jpg",    
+    "titulo":"Propósito de entender los hábitos de los lectores",
+    "contenido":"El hábito de la lectura se refiere a la práctica regular y sistemática de leer libros, revistas, periódicos u otros tipos de textos escritos como parte de la rutina diaria o semanal de una persona. "
+    },
+    {
+    "imagen":"./imagenes/relato.png",   
+    "titulo":"Preguntas Frecuentes",
+     "contenido":"¿Con qué frecuencia lees.?,¿Consideras la lectura una actividad placentera o no?,¿Leerias mas libros si tuvieras mas tiempo?"       
+     }  
+  ]
+}
+   

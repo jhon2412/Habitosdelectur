@@ -1,0 +1,37 @@
+{
+   "consejos":[
+            {
+             "titulo":" 1° Recomnedaciones",
+             "sugerencia":"Ve a la biblioteca y hazte socio de ella "
+
+            },
+            {
+            "titulo":" 2° Recomnedaciones",
+            "sugerencia":"Reserva, al menos, 20 minutos al día para la lectura "
+                
+             },
+             {
+             "titulo":" 3° Recomnedaciones",
+             "sugerencia":"Reduce las horas de ver la televisión o estar con el móvil."
+                
+             },
+             {
+             "titulo":"4° Recomnedaciones",
+             "sugerencia":"Lee los libros que te enganchan y pasa de los que no te están gustando nada. "
+                    
+             },
+             {
+            "titulo":" 5° Recomnedaciones",
+            "sugerencia":"Comparte los libros que vas a leer por tus redes sociales."
+            },
+            {
+            "titulo":" 6° Recomnedaciones",
+            "sugerencia":"Habla e intercambia libros con familiares y amigos."
+                    
+            },
+            {
+            "titulo":" 7° Recomnedaciones",
+            "sugerencia":"Déjate recomendar."        
+          }
+    ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+<menu>
+    <item id="Inicio">
+        <es>Inicio</es>
+        <en>Home</en>
+    </item>
+     
+    <item id="Encuesta">
+        <es>Encuesta</es>
+        <en>Survey</en>
+        
+    </item>
+    <item  id="Resultados">
+        <es>Resultados</es>
+        <en>Results</en>
+    </item>
+    <item  id="Consejos">
+        <es>Consejos</es>
+        <en>Tips</en>
+    </item>
+    <item id="Comunidad">
+        <es>Comunidad</es>
+        <en>SComunity</en>
+    </item>
+    <item id="Extra">
+        <es>Extras</es>
+        <en>Extras</en>
+    </item>
+    <item id="FAQ">
+        <es>FAQ</es>
+        <en>FAQ</en>
+    </item>
+    <item id="Contactos">
+        <es>Contactos</es>
+        <en>Contacts</en>
+    </item>
+    <item id="Salir">
+        <es>Salir</es>
+        <en>Go out</en>
+    </item>
+</menu>
+</translations>
